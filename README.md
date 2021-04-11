@@ -16,7 +16,7 @@ WrappedPacketInFlying **MyWrapperName** = new WrappedPacketInUseEntity(**event**
 
 ### Initialisation:
 
-1. SimplixInstaller (just add new simplixpackets.main(this))
+1. SimplixInstaller (just add new simplixpackets.main(this) to your SimplixInstaller thing)
 2. Manual (new simplixpackets.main(this))
 
 The parameter is a plugin's main class.
