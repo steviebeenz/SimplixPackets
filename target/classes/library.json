@@ -1,0 +1,6 @@
+{
+  "name": "SimplixPackets",
+  "version": "1.0",
+  "authors": ["Steviebeenz"],
+  "mainClass": "simplixpackets.main"
+}
